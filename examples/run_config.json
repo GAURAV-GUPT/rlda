@@ -1,0 +1,13 @@
+{
+  "params_csv": "templates/suspension_params.csv",
+  "road_csv": "",
+  "iso_class": "C",
+  "duration_s": 20.0,
+  "fs_hz": 1000,
+  "speed_mps": 20.0,
+  "seed": 42,
+  "wohler_m": 6.0,
+  "N_ref": 1000000,
+  "use_damper_map": false,
+  "damper_map_csv": "templates/damper_map_example.csv"
+}
